@@ -1,0 +1,5 @@
+C:\ProjectTest\DataCenter.Access\bin\Debug\DataCenter.Access.dll
+C:\ProjectTest\DataCenter.Access\bin\Debug\DataCenter.Access.pdb
+C:\ProjectTest\DataCenter.Access\obj\Debug\DataCenter.Access.dll
+C:\ProjectTest\DataCenter.Access\obj\Debug\DataCenter.Access.pdb
+C:\ProjectTest\DataCenter.Access\obj\Debug\DataCenter.Access.csprojResolveAssemblyReference.cache
