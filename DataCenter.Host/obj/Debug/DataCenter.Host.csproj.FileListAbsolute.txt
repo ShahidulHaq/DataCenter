@@ -1,0 +1,10 @@
+C:\ProjectTest\DataCenter.Host\bin\Debug\DataCenter.Host.exe.config
+C:\ProjectTest\DataCenter.Host\bin\Debug\DataCenter.Host.exe
+C:\ProjectTest\DataCenter.Host\bin\Debug\DataCenter.Host.pdb
+C:\ProjectTest\DataCenter.Host\bin\Debug\DataCenter.Service.dll
+C:\ProjectTest\DataCenter.Host\bin\Debug\DataCenter.Access.dll
+C:\ProjectTest\DataCenter.Host\bin\Debug\DataCenter.Service.pdb
+C:\ProjectTest\DataCenter.Host\bin\Debug\DataCenter.Access.pdb
+C:\ProjectTest\DataCenter.Host\obj\Debug\DataCenter.Host.csprojResolveAssemblyReference.cache
+C:\ProjectTest\DataCenter.Host\obj\Debug\DataCenter.Host.exe
+C:\ProjectTest\DataCenter.Host\obj\Debug\DataCenter.Host.pdb
